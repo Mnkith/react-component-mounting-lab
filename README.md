@@ -1,5 +1,5 @@
 # React: Component Mounting and Unmounting
-
+ 
 ## Objectives
 
 1.  Describe what happens in the mounting phase of a React component's lifecycle
